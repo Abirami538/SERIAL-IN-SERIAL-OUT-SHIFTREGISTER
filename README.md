@@ -34,7 +34,7 @@ PROGRAM:
 Developed by: ABIRAMI A
 
 RegisterNumber: 24900822
-
+~~~
 module Verilog1(clk, sin, q);
 input clk;
 input sin;
@@ -48,7 +48,7 @@ q[2] <= q[1];
 q[3] <= q[2];
 end
 endmodule
-
+~~~
 
 
 RTL LOGIC FOR SISO Shift Register:
