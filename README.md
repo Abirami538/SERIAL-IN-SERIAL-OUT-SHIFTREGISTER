@@ -33,6 +33,7 @@ PROGRAM:
 
 Developed by: ABIRAMI A
 
+
 RegisterNumber: 24900822
 ~~~
 module Verilog1(clk, sin, q);
